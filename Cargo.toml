@@ -1,6 +1,6 @@
 [package]
 name = "discrete_system"
-version = "0.1.0"
+version = "0.1.1"
 edition = "2021"
 license = "MIT"
 description = "Traits for SISO, SIMO, MISO and MIMO type discrete systems"
